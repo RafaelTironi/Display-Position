@@ -9,7 +9,7 @@ body {
 }
 
 .yo {
-    padding: 50px;
+    padding: 100px;
     margin: 15px;
     background-color: yellow;
 }
@@ -18,3 +18,8 @@ body {
     display: flex;
 }
 
+
+.red{
+    padding-right: 330px;
+    background-color: red;
+}
