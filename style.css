@@ -14,12 +14,17 @@ body {
     background-color: yellow;
 }
 
-.flex{
+.flex {
     display: flex;
 }
 
 
-.red{
+.red {
     padding-right: 330px;
     background-color: red;
+}
+
+.green{
+    padding-bottom: 200;
+    background-color: yellow;
 }
