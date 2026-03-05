@@ -21,10 +21,16 @@ body {
 
 .red {
     padding-right: 330px;
-    background-color: red;
+    background-color: yellow;
 }
 
 .green{
-    padding-bottom: 200;
+    padding-bottom: 200px;
+    background-color: yellow;
+}
+
+.purple{
+    margin-top: 30px;
+    padding-top: 250px;
     background-color: yellow;
 }
