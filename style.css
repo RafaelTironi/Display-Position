@@ -24,12 +24,17 @@ body {
     background-color: yellow;
 }
 
-.green{
+.green {
     padding-bottom: 280px;
     background-color: yellow;
 }
 
-.purple{
+.green2 {
+    padding-bottom: 330px;
+    background-color: yellow;
+}
+
+.purple {
     margin-top: 30px;
     padding-top: 250px;
     background-color: yellow;
